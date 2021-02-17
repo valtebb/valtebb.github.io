@@ -1,0 +1,16 @@
+
+@mixin montserrat700-font {
+  font-family: 'Montserrat',
+  sans-serif;
+  font-weight: 700;
+}
+@mixin montserrat400-font {
+  font-family: 'Montserrat',
+    sans-serif;
+  font-weight: 400;
+}
+@mixin roboto-font {
+  font-family: 'Roboto',
+  sans-serif;
+  font-weight: 300;
+}
