@@ -21,7 +21,6 @@
   }
 
   .partners-grid {
-    width: 520px;
     margin: 0 auto;
 
     .partner-person {
@@ -66,7 +65,7 @@
 
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .container {
     width: 100%;
   }
@@ -152,22 +151,26 @@
     .gallery-text {
       position: absolute;
       top: 100px;
-      left: 143px;
+      left: 68px;
     }
 
     .gallery-img3 {
-      left: 90px;
+      left: 23px;
     }
 
     .gallery-img4,
     .gallery-img7 {
-      left: 207px;
+      left: 127px;
     }
 
-    .gallery-img5,
-    .gallery-img6 {
-      left: 120px;
+    .gallery-img5
+    {
+      left: 48px;
     }
+    .gallery-img6{
+      left: 26px;
+    }
+
 
   }
 

@@ -834,7 +834,6 @@ footer .footer-container .footer-col4 p {
     font-size: 22px;
   }
   .partners-grid {
-    width: 520px;
     margin: 0 auto;
   }
   .partners-grid .partner-person {
@@ -868,7 +867,7 @@ footer .footer-container .footer-col4 p {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .container {
     width: 100%;
   }
@@ -949,18 +948,20 @@ footer .footer-container .footer-col4 p {
   .gallery .gallery-text {
     position: absolute;
     top: 100px;
-    left: 143px;
+    left: 68px;
   }
   .gallery .gallery-img3 {
-    left: 90px;
+    left: 23px;
   }
   .gallery .gallery-img4,
   .gallery .gallery-img7 {
-    left: 207px;
+    left: 127px;
   }
-  .gallery .gallery-img5,
+  .gallery .gallery-img5 {
+    left: 48px;
+  }
   .gallery .gallery-img6 {
-    left: 120px;
+    left: 26px;
   }
   .create-search {
     width: 280px;
